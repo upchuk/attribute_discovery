@@ -1,0 +1,7 @@
+name: Runner
+type: module
+description: Defines the Runner plugin type.
+package: Custom
+core_version_requirement: ^9
+dependencies:
+  attribute_discovery:attribute_discovery

@@ -1,0 +1,5 @@
+{
+    "name": "drupal/attribute_discovery",
+    "type": "drupal-module",
+    "description": "POC for attribute-based class plugin discovery"
+}

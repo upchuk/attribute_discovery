@@ -1,0 +1,4 @@
+services:
+  plugin.manager.runner:
+    class: Drupal\runner\RunnerPluginManager
+    parent: default_plugin_manager

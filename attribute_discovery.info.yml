@@ -1,0 +1,5 @@
+name: Attribute discovery
+type: module
+description: POC for attribute-based class plugin discovery
+package: Custom
+core_version_requirement: ^9
